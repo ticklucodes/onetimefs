@@ -3,7 +3,7 @@ import reducer from "./reducer";
 
 const AppContext = React.createContext();
 
-const API = "https://thapareactapi.up.railway.app";
+const API = "./data.json";
 
 const intialState = {
   name: "",

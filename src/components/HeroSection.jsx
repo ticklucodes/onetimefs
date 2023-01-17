@@ -10,12 +10,17 @@ const HeroSection = () => {
   return (
     <Wrapper>
       <div className="container grid grid-two-column">
+        
         <div className="section-hero-data">
+          
           <p className="hero-top-data">Lorem, ipsum.</p>
+          
           <h1 className="hero-heading">Lorem, ipsum</h1>
+          
           <p className="hero-para">
             I'm Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit odio velit inventore voluptatem aperiam corporis? Eos, obcaecati!
           </p>
+
           <Button className="btn hireme-btn">
             <NavLink to="/contact"> Contact </NavLink>
           </Button>
