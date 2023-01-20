@@ -10,7 +10,7 @@ const Services = () => {
 
   return (
     <Wrapper className="section">
-      <h2 className="common-heading">Our Services</h2>
+      <h2 className="common-heading">SERVICES</h2>
       <div className="container grid grid-three-column">
         {services.map((curElem) => {
           const { id, name, image, description } = curElem;
@@ -22,9 +22,9 @@ const Services = () => {
               <div className="card-data">
                 <h3>{name}</h3>
                 <p>{description}</p>
-                <NavLink to="/service">
+                {/* <NavLink to="/service">
                   <Button className="btn">Read More</Button>
-                </NavLink>
+                </NavLink> */}
               </div>
             </div>
           );

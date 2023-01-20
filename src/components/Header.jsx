@@ -21,10 +21,9 @@ const MainHeader = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   .logo {
     height: auto;
-    max-width: 30%;
+    max-width: 60%;
   }
 `;
 

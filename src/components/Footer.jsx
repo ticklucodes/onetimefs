@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Button } from "../styles/Button";
 import { NavLink } from "react-router-dom";
-import { FaDiscord, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaDiscord, FaFacebook, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -27,8 +27,8 @@ const Footer = () => {
       <footer>
         <div className="container grid grid-four-column">
           <div className="footer-about">
-            <h3>One Time FS</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+            <h3>On Time FS</h3>
+            <p>A company with expertise in Search,Staffing & Outsourcing.</p>
           </div>
 
           {/* 2nd column */}
@@ -50,17 +50,13 @@ const Footer = () => {
             <h3>Follows Us</h3>
             <div className="footer-social--icons">
               <div>
-                <FaDiscord className="icons" />
+                <FaFacebook className="icons" />
               </div>
               <div>
                 <FaInstagram className="icons" />
               </div>
               <div>
-                <a
-                  href="https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA"
-                  target="_blank">
-                  <FaYoutube className="icons" />
-                </a>
+              <FaLinkedinIn className="icons" />
               </div>
             </div>
           </div>
@@ -68,7 +64,7 @@ const Footer = () => {
           {/* 4th column  */}
           <div className="footer-contact">
             <h3>Call Us</h3>
-            <h3>+91 12345678978</h3>
+            <h3>+919632625904</h3>
           </div>
         </div>
 
@@ -77,7 +73,7 @@ const Footer = () => {
           <hr />
           <div className="container grid grid-two-column">
             <p>
-              @{new Date().getFullYear()} One Time FS. All Rights Reserved
+              @{new Date().getFullYear()} On Time FS. All Rights Reserved
             </p>
             <div>
               <p>PRIVACY POLICY</p>

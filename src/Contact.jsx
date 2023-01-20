@@ -36,7 +36,7 @@ const Contact = () => {
 
   return (
     <Wrapper>
-      <h2 className="common-heading">Feel Free to Contact us</h2>
+      <h2 className="common-heading">CONTACT US</h2>
 
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.2226348984054!2d77.7130312!3d13.0214897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae104da55c49a9%3A0xbed4efeab2142b49!2s6%2C%201st%20Cross%20Rd%2C%20Banashankari%20Layout%2C%20Hosabasavanapura%2C%20Krishnarajapura%2C%20Bengaluru%2C%20Karnataka%20560049!5e0!3m2!1sen!2sin!4v1673446366945!5m2!1sen!2sin"
@@ -54,7 +54,7 @@ const Contact = () => {
       <div className="container">
         <div className="contact-form">
           <form
-            action="https://formspree.io/f/xgedgjkr"
+            action="https://formspree.io/f/xvongwno"
             method="POST"
             className="contact-inputs">
             <input

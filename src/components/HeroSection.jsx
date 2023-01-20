@@ -13,16 +13,16 @@ const HeroSection = () => {
         
         <div className="section-hero-data">
           
-          <p className="hero-top-data">Lorem, ipsum.</p>
+          {/* <p className="hero-top-data"></p> */}
           
-          <h1 className="hero-heading">Lorem, ipsum</h1>
+          <h1 className="hero-heading">On Time FS</h1>
           
           <p className="hero-para">
-            I'm Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit odio velit inventore voluptatem aperiam corporis? Eos, obcaecati!
-          </p>
+          is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka.This company is known for offering best recruitment solutions for IT & Non-IT industries in Pan 
+          India.</p>
 
           <Button className="btn hireme-btn">
-            <NavLink to="/contact"> Contact </NavLink>
+            <NavLink to="/service"> SEE MORE </NavLink>
           </Button>
         </div>
 
@@ -42,8 +42,8 @@ const Wrapper = styled.section`
 
   .section-hero-data {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction:column;
+    justify-content:center;
   }
 
   .btn {
