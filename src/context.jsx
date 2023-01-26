@@ -5,6 +5,7 @@ const AppContext = React.createContext();
 
 const API = "./data.json";
 
+
 const intialState = {
   name: "",
   image: "",
@@ -18,7 +19,7 @@ const AppProvider = ({ children }) => {
     return dispatch({
       type: "HOME_UPDATE",
       payload: {
-        name: "Thapa Technical",
+        name: "One Time Fs",
         image: "./images/hero.svg",
       },
     });
@@ -28,7 +29,7 @@ const AppProvider = ({ children }) => {
     return dispatch({
       type: "ABOUT_UPDATE",
       payload: {
-        name: "Vinod Thapa",
+        name: "Financial Services",
         image: "./images/about1.svg",
       },
     });
@@ -50,7 +51,9 @@ const AppProvider = ({ children }) => {
     getServices(API);
   }, []);
 
-  return (
+  //  to get the api data
+ 
+ return (
     <AppContext.Provider value={{ ...state, updateHomePage, udpateAboutPage }}>
       {children}
     </AppContext.Provider>
