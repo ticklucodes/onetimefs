@@ -5,6 +5,7 @@ import { Button } from "../styles/Button";
 import { useGlobalContext } from "../context";
 
 const HeroSection = () => {
+  
   const { name, image } = useGlobalContext();
 
   return (
