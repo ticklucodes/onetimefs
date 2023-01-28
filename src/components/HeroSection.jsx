@@ -18,8 +18,8 @@ const HeroSection = () => {
           <h1 className="hero-heading">OTFS</h1>
           
           <p className="hero-para">
-          A company with Expertise in Search, Staffing & Outsourcing. <br></br> One stop solution for all type of recruitment & HR functions.<br></br>  
-          On Time FS Consultants is a unique and flourishing Human Resource Consultancy in Bangalore,Karnataka.This company <br></br>is known for offering best recruitment solutions for an IT & <br></br>Non-IT industries in Pan India. 
+          A company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment & HR functions.  
+          On Time FS Consultants is a unique and flourishing Human Resource Consultancy in Bangalore,Karnataka.This company is known for offering best recruitment solutions for an IT & Non-IT industries in Pan India. 
          </p>
 
           <Button className="btn hireme-btn">

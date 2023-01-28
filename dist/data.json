@@ -1,0 +1,82 @@
+[
+
+
+{
+
+    "id": 1,
+    "title": "Executive Hiring",
+    "name" : "Executive Hiring",
+    "image":"./images/services/sv1.jpg",
+    "description":"is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+,
+
+{
+
+    "id": 2,
+    "title": "Senior and Mid Level Hiring",
+    "name": "Senior and Mid Level Hiring",
+    "image":"/images/services/sv2.jpg",
+    "description":"is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+
+,
+
+{
+
+    "id": 3,
+    "title": "Contract And Permanent Staffing",
+    "name": "Contract And Permanent Staffing",
+    "image":"/images/services/sv3.jpg",
+    "description":"is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+
+,
+
+{
+
+    "id": 4,
+    "title": "Campus Hiring",
+    "name": "Campus Hiring",
+    "image":"/images/services/sv4.jpg",
+    "description":"is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+,
+{
+
+    "id": 5,
+    "title": "Head Hunting",
+    "name": "Head Hunting",
+    "image":"/images/services/sv5.jpg",
+    "description":"is a unique and flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+
+,
+{
+
+    "id": 6,
+    "title": "Reference and Social Media",
+    "name": "Reference and Social Media",
+    "image":"/images/services/sv6.jpg",
+    "description":"is a unique \nand flourishing Human Resource Consultancy in Bangalore, Karnataka. This company is known for offering best recruitment solutions for an IT and Non-IT industries in Pan India. company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment and HR functions."
+
+}
+
+,
+{
+
+    "id": 7,
+    "title": "IT Expertise",
+    "name": "IT Expertise",
+    "image":"/images/services/sv6.jpg",
+    "description":"||| Software Application Development ||| Web Design & Development ||| Digital Transformation Data Science Cloud Services  Android App Development  IOS App Development Mobile App Development Resource Augmentation."
+
+}
+
+
+]
