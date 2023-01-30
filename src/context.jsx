@@ -20,7 +20,7 @@ const AppProvider = ({ children }) => {
       type: "HOME_UPDATE",
       payload: {
         name: "One Time Fs",
-        image: "./images/hero.svg",
+        image: "./images/about2.jpg",
       },
     });
   };
@@ -30,7 +30,7 @@ const AppProvider = ({ children }) => {
       type: "ABOUT_UPDATE",
       payload: {
         name: "Financial Services",
-        image: "./images/about1.svg",
+        image: "./images/about1.png",
       },
     });
   };
