@@ -5,7 +5,7 @@ import { Button } from "../styles/Button";
 import { useGlobalContext } from "../context";
 
 const HeroSection = () => {
-  
+
   const { name, image } = useGlobalContext();
 
   return (
@@ -19,7 +19,7 @@ const HeroSection = () => {
           <h1 className="hero-heading">OTFS</h1>
           
           <p className="hero-para">
-          A company with Expertise in Search, Staffing & Outsourcing. One stop solution for all type of recruitment & HR functions.  
+          A company with Expertise in Search, Staffing & Outsourcing.One stop solution for all type of recruitment & HR functions.  
           On Time FS Consultants is a unique and flourishing Human Resource Consultancy in Bangalore,Karnataka.This company is known for offering best recruitment solutions for an IT & Non-IT industries in Pan India. 
          </p>
 
