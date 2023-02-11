@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
 
           <div className="contact-short-btn">
-            <NavLink to="/">
+            <NavLink to="/contact">
               <Button>Get Started</Button>
             </NavLink>
           </div>
@@ -28,23 +28,46 @@ const Footer = () => {
         <div className="container grid grid-four-column">
           <div className="footer-about">
             <h3>On Time FS</h3>
-            <p>A company with expertise in Search,Staffing & Outsourcing.</p>
+            <p>We hire the right people.</p>
           </div>
 
-          {/* 2nd column */}
-          <div className="footer-subscribe">
-            <h3>Subscribe to get important updates</h3>
-            <form action="#">
-              <input
-                type="email"
-                required
-                autoComplete="off"
-                placeholder="Email"
-              />
-              <input type="submit" value="Subscribe" />
-            </form>
-          </div>
+          <div className="footer-subscribe"> 
+          <h3>Subscribe to get important updates</h3>
+             
+          <form
+            action="https://formspree.io/f/xvongwno"
+            method="POST"
+            className="contact-inputs">
+           
 
+            <input
+              type="email"
+              name="Email"
+              placeholder="Email"
+              autoComplete="off"
+              required
+            />
+
+            {/* <textarea
+              name="message"
+              cols="30"
+              rows="6"
+              autoComplete="off"
+              required></textarea> */}
+
+            <input type="submit" value="Subscribe" />
+          </form>
+
+          </div>          
+
+
+
+
+
+
+
+
+         
           {/* 3rs column  */}
           <div className="footer-social">
             <h3>Follows Us</h3>
