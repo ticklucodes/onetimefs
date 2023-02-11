@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
     return dispatch({
       type: "HOME_UPDATE",
       payload: {
-        name: "One Time Fs",
+        name: "On Time Fs",
         image: "./images/about2.jpg",
       },
     });
