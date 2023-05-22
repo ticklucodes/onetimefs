@@ -1,107 +1,237 @@
 [
 
 
-{
+    {
+    
+        "id": 1,
+        "title": "Executive Hiring",
+        "name" : "Executive Hiring",
+        "image":"./images/services/sv1.jpg",
+        "description":"Executive hiring is the process of recruiting and selecting qualified individuals for specific leadership roles within an organization through networking, referrals, job postings, and has a significant impact on company performance."
+    
+    }
+    ,
+    
+    {
+    
+        "id": 2,
+        "title": "Mid Level Hiring",
+        "name": "Mid Level Hiring",
+        "image":"/images/services/sv2a.jfif",
+        "description":"Mid-level hiring is the process of recruiting and selecting qualified individuals for mid-level roles within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position."
+    
+    }
+    
+    ,
+    
+    {
+    
+        "id": 3,
+        "title": "Senior Level Hiring",
+        "name": "Senior Level Hiring",
+        "image":"/images/services/sv2.jpg",
+        "description":"Senior-level hiring is the process of recruiting and selecting qualified individuals for higher-level roles within an organization.Senior-level candidates are typically sourced through referrals, job postings, and other recruiting strategies"
+    
+    }
+    
+    ,
+    
+    
+    {
+    
+        "id": 4,
+        "title": "Contract Staffing",
+        "name": "Contract Staffing",
+        "image":"/images/services/sv3.png",
+        "description":"Contract staffing is the process of recruiting and placing contractors with specific skillsets to complete short-term or specialized tasks. It involves assessing the needs of the organization and the desired skills and qualifications for the contracted role."
+    
+    }
+    
+    ,
+    
+    
+    {
+    
+        "id": 5,
+        "title": "Permanent Staffing",
+        "name": "Permanent Staffing",
+        "image":"/images/services/permanent.jfif",
+        "description":"Permanent staffing is the process of recruiting and selecting qualified individuals for long-term employment within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position."
+    
+    }
+    
+    ,
+    {
+    
+        "id": 6,
+        "title": "Campus Hiring",
+        "name": "Campus Hiring",
+        "image":"/images/services/sv4.webp",
+        "description":"Campus hiring is a recruitment strategy that focuses on sourcing new talent from universities and colleges. It involves recruiting teams visiting campuses, attending job fairs, and hosting on-site interviews,recruit potential new employees at an early stage in their careers."
+    
+    }
+    ,
+    {
+    
+        "id": 7,
+        "title": "Head Hunting",
+        "name": "Head Hunting",
+        "image":"/images/services/sv5.jfif",
+        "description":"Headhunting is used when an organization is unable to source suitable candidates through traditional methods and provides ideal candidates for senior and executive roles."
+    
+    }
+    
+    ,
+    {
+    
+        "id": 8,
+        "title": "Reference",
+        "name": "Reference",
+        "image":"/images/services/sv6.jpg",
+        "description":"Reference and social media are two commonly used recruitment methods. Reference checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family."
+    
+    }
+    
+    ,
+    {
+    
+        "id": 9,
+        "title": "Social Media",
+        "name": "Social Media",
+        "image":"/images/services/sv7.jpg",
+        "description":"Social media recruitment involves using social media platforms to post job openings and evaluate applicants. Both methods can be used to identify potential candidates, however, social media recruitment can provide a larger pool of applicants."
+    
+    }
+    
 
-    "id": 1,
-    "title": "Executive Hiring",
-    "name" : "Executive Hiring",
-    "image":"./images/services/sv1.jpg",
-    "description":"Executive hiring is the process of recruiting and selecting qualified individuals for specific leadership roles within an organization. It involves identifying the skills and experience needed for the position and sourcing candidates through networking, referrals, job postings, and other recruiting strategies. Executive hiring is a critical part of any successful organization, as it can have a significant impact on company performance."
 
-}
+    ,
+    {
+    
+        "id": 10,
+        "title": "Resource Augmentation",
+        "name": "Resource Augmentation",
+        "image":"/images/services/sv8.jpg",
+        "description":"Our IT Expertise provide the speed, professional acumen and flexibility your team needs to scale quickly and complete development on time. Our team is always available for every type of project simple or complex:from prototyping to full-scale development."
+    
+    }
+
+
+    ,
+    
+        {
+    
+        "id": 11,
+        "title": "IT Services",
+        "name":  "Software Application Development",
+        "image":"/images/services/sv9.jpg",
+        "description":"For your specific project requirements, we have experts of various IT professionals including : Software Application Development,Web Design & Development,Digital Transformation,Data Science, Cloud Services,Android App Development,IOS App Development & Mobile App Development"
+    
+    }  
+
+    ,
+    
+        {
+    
+        "id": 12,
+        "title": "IT Services",
+        "name":  "Web Design & Development",
+        "image":"/images/services/sv10.jpg",
+        "description":"Get awe-inspiring business-ready web applications features into production on-time"
+    
+    }  
+
+
+
+    ,
+    
+    {
+
+    "id": 13,
+    "title": "Digital Transformation",
+    "name":  "Digital Transformation",
+    "image":"/images/services/sv11.jpg",
+    "description":"We start by assessing where a company standsand where it wants to go. We look at its people, technology, and data. At its culture, leadership, and governance."
+
+}   
+
+
 ,
-
-{
-
-    "id": 2,
-    "title": "Mid Level Hiring",
-    "name": "Mid Level Hiring",
-    "image":"/images/services/sv2a.jfif",
-    "description":"Mid-level hiring is the process of recruiting and selecting qualified individuals for mid-level roles within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Candidates are typically sourced through referrals, job postings, and other recruiting strategies. Mid-level hiring is important for ensuring that the organization has the necessary skills and talent to achieve success."
-
-}
-
-,
-
-{
-
-    "id": 3,
-    "title": "Senior Level Hiring",
-    "name": "Senior Level Hiring",
-    "image":"/images/services/sv2.jpg",
-    "description":"Senior-level hiring is the process of recruiting and selecting qualified individuals for higher-level roles within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Senior-level candidates are typically sourced through referrals, job postings, and other recruiting strategies. Senior-level hiring is important for ensuring that the organization has the experience, expertise, and leadership necessary for success."
-
-}
-
-,
+    
+        {
+    
+        "id": 14,
+        "title": "Data Science",
+        "name":  "Data Science",
+        "image":"/images/services/sv12.jpg",
+        "description":"Well take your data requirements and create powerful analytical modules that help you identify insight gaps, spot opportunities, improve your business outcomes and tighten your operational efficiency through tools like automation, process optimisation and predictive analytics"
+    
+    }  
 
 
-{
+    ,
+    
+    {
 
-    "id": 4,
-    "title": "Contract Staffing",
-    "name": "Contract Staffing",
-    "image":"/images/services/sv3.png",
-    "description":"Contract staffing is the process of recruiting and placing contractors with specific skillsets to complete short-term or specialized tasks. It involves assessing the needs of the organization and the desired skills and qualifications for the contracted role. Contractors are typically sourced through referrals, job postings, and other recruiting strategies. Contract staffing is important for providing access to specialized skillsets and expertise on a more flexible and cost-effective basis."
+    "id": 15,
+    "title": "Cloud Services",
+    "name":  "Cloud Services",
+    "image":"/images/services/sv13.jpg",
+    "description":"Clouds have numerous advantages that make them the best choice for any organization, large or small. There are many advantages of using cloud computing in organizations. These include:Availability, Scalability, Robustness, and Reliability.Flexible and Cost-Effective, Agility and Increased Business Value & Operation Efficiency Improvement"
 
-}
+}  
 
 ,
+    
+        {
+    
+        "id": 16,
+        "title": "Android App Development",
+        "name":  "Android App Development",
+        "image":"/images/services/sv14.jpg",
+        "description":"Staying ahead in the market necessitates having fully-featured and versatile mobile applications. Our team uses their deep expertise, design thinking, and innovative technologies to create apps that have a significant impact. The objective is to deliver Android apps that are scalable, robust, and tailored to individual needs."
+    
+    }  
 
 
-{
+    ,
+    
+    {
 
-    "id": 5,
-    "title": "Permanent Staffing",
-    "name": "Permanent Staffing",
-    "image":"/images/services/permanent.jfif",
-    "description":"Permanent staffing is the process of recruiting and selecting qualified individuals for long-term employment within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Permanent candidates are typically sourced through referrals, job postings, and other recruiting strategies. Permanent staffing is important for providing stability and longevity to an organization's workforce."
+    "id": 17,
+    "title": "IOS App Development",
+    "name":  "IOS App Development",
+    "image":"/images/services/sv15.jpg",
+    "description":"To succeed in the face of competition, businesses require niche-specific, user-friendly and target-oriented apps that provide an abundance of features. Our comprehensive process results in robust, reliable and top-quality apps, including sleek UI design, implementation, testing, and integration for iOS devices that are tailored to enhance all aspects of your business."
 
-}
-
-,
-{
-
-    "id": 6,
-    "title": "Campus Hiring",
-    "name": "Campus Hiring",
-    "image":"/images/services/sv4.webp",
-    "description":"Campus hiring is a recruitment strategy that focuses on sourcing new talent from universities and colleges. It involves recruiting teams visiting campuses, attending job fairs, and hosting on-site interviews. The goal of campus hiring is to identify and recruit potential new employees at an early stage in their careers. It can also be used to build relationships with universities and create a positive reputation for the organization."
-
-}
-,
-{
-
-    "id": 7,
-    "title": "Head Hunting",
-    "name": "Head Hunting",
-    "image":"/images/services/sv5.jfif",
-    "description":"Headhunting is a recruitment strategy used to find qualified candidates for specialised positions. It involves actively searching for and targeting individuals who possess the desired skills and qualifications. Headhunting is used when an organization is unable to source suitable candidates through traditional methods and provides ideal candidates for senior and executive roles."
-
-}
+}  
 
 ,
+    
 {
 
-    "id": 8,
-    "title": "Reference and Social Media",
-    "name": "Reference & Social Media",
-    "image":"/images/services/sv6.jpg",
-    "description":"Reference and social media are two commonly used recruitment methods. Reference checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family. Social media recruitment involves using social media platforms to post job openings and evaluate applicants. Both methods can be used to identify potential candidates, however, social media recruitment can provide a larger pool of applicants."
+"id": 18,
+"title": "Mobile App Development",
+"name":  "Mobile App Development",
+"image":"/images/services/sv16.jpg",
+"description":"Managed Mobile App Development devoted to discovering & building your desired objectives"
 
-}
-
-,
-{
-
-    "id": 9,
-    "title": "IT Expertise",
-    "name": "IT Expertise",
-    "image":"/images/services/sv7.jpg",
-    "description":"IT expertise refers to the knowledge and skills of individuals in the field of information technology.Individuals with IT expertise may have the ability to design, implement, and maintain computer systems and applications.Software Application Development  Web Design & Development  Digital Transformation Data Science Cloud Services  Android App Development  IOS App Development Mobile App Development Resource Augmentation."
-
-}
+}  
 
 
 ]
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

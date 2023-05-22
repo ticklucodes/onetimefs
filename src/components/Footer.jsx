@@ -14,11 +14,13 @@ const Footer = () => {
             <h3>Talk to us today</h3>
           </div>
 
-          <div className="contact-short-btn">
-            <NavLink to="/contact">
-              <Button>Get Started</Button>
-            </NavLink>
+          <div className="contact-short-btn" >
+
+          <a href="https://t.me/onetimefs" target="_blank" rel="noopener noreferrer">
+        <Button>Get Started</Button>
+      </a>
           </div>
+
         </div>
       </section>
 
@@ -59,13 +61,6 @@ const Footer = () => {
           </form>
 
           </div>          
-
-
-
-
-
-
-
 
          
           {/* 3rs column  */}
@@ -140,7 +135,7 @@ const Wrapper = styled.section`
       gap: 2rem;
 
       div {
-        padding: 1rem;
+        padding: 1rem;link
         border-radius: 50%;
         border: 2px solid ${({ theme }) => theme.colors.white};
 

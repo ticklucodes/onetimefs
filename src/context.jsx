@@ -20,7 +20,7 @@ const AppProvider = ({ children }) => {
       type: "HOME_UPDATE",
       payload: {
         name: "On Time Fs",
-        image: "./images/about2.jpg",
+        image: "./images/home.jpg",
       },
     });
   };
@@ -29,8 +29,8 @@ const AppProvider = ({ children }) => {
     return dispatch({
       type: "ABOUT_UPDATE",
       payload: {
-        name: "Financial Services",
-        image: "./images/about1.png",
+        name: "About",
+        image: "./images/about.png",
       },
     });
   };

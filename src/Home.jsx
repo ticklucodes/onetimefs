@@ -3,6 +3,7 @@ import HeroSection from "./components/HeroSection";
 import { useGlobalContext } from "./context";
 import Services from "./Services";
 import Contact from "./Contact";
+import Reviews from "./Reviews";
 
 const Home = () => {
   const { updateHomePage } = useGlobalContext();
@@ -13,6 +14,7 @@ const Home = () => {
     <>
       <HeroSection /> 
       <Services />
+      <Reviews />
       <Contact />
     </>
   );

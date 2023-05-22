@@ -85,10 +85,10 @@
 {
 
     "id": 8,
-    "title": "Reference and Social Media",
-    "name": "Reference & Social Media",
+    "title": "Reference",
+    "name": "Reference",
     "image":"/images/services/sv6.jpg",
-    "description":"Reference and social media are two commonly used recruitment methods. Reference checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family. Social media recruitment involves using social media platforms to post job openings and evaluate applicants. Both methods can be used to identify potential candidates, however, social media recruitment can provide a larger pool of applicants."
+    "description":"Reference and social media are two commonly used recruitment methods. Reference checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family."
 
 }
 
@@ -96,12 +96,37 @@
 {
 
     "id": 9,
-    "title": "IT Expertise",
-    "name": "IT Expertise",
+    "title": "Social Media",
+    "name": "Social Media",
     "image":"/images/services/sv7.jpg",
-    "description":"IT expertise refers to the knowledge and skills of individuals in the field of information technology.Individuals with IT expertise may have the ability to design, implement, and maintain computer systems and applications.Software Application Development  Web Design & Development  Digital Transformation Data Science Cloud Services  Android App Development  IOS App Development Mobile App Development Resource Augmentation."
+    "description":"Social media recruitment involves using social media platforms to post job openings and evaluate applicants. Both methods can be used to identify potential candidates, however, social media recruitment can provide a larger pool of applicants."
 
 }
 
+,
+
+{
+
+    "id": 10,
+    "title": "",
+    "name": "IT Expertise",
+    "image":"/images/services/sv7.jpg",
+    "description":"IT expertise refers to the knowledge and skills of individuals in the field of information technology.Individuals with IT expertise may have the ability to design, implement, and maintain computer systems and applications."
+
+}
 
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+

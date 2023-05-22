@@ -22,9 +22,9 @@ const Services = () => {
               <div className="card-data">
                 <h3>{name}</h3>
                 <p>{description}</p>
-                {/* <NavLink to="/service">
-                  <Button className="btn">Read More</Button>
-                </NavLink> */}
+                { <NavLink to="/contact">
+                  <Button className="btn">Know More</Button>
+                </NavLink> }
               </div>
             </div>
           );
