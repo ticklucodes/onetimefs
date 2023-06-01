@@ -126,14 +126,14 @@ const Navbar = () => {
               Services
             </NavLink>
           </li>
-          <li>
+          {/* <li>
             <NavLink
               className="navbar-link"
               onClick={() => setOpenMenu(false)}
               to="/reviews">
               ⭐Reviews
             </NavLink>
-          </li>
+          </li> */}
           <li>
             <NavLink
               className="navbar-link"
