@@ -38,7 +38,7 @@ const Contact = () => {
     <Wrapper>
       <h2 className="common-heading">CONTACT</h2>
 
-      // Map Integration from Google Maps.
+      // Map Integration from Google Maps I
 
       <iframe
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.2227808155308!2d77.7129837!3d13.0214804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11eba74700f3%3A0xb4562b4cd01b3f58!2sOn%20Time%20FS!5e0!3m2!1sen!2sin!4v1727247502546!5m2!1sen!2sin"
