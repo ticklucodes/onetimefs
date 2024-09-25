@@ -1,0 +1,219 @@
+[
+    {
+    
+        "id": 1,
+        "title": "Executive Hiring",
+        "name" : "Executive Hiring",
+        "image":"./images/services/sv1.jpg",
+        "description":"Executive hiring, which has a significant impact on business success, is the process of locating and choosing competent individuals for specialized leadership roles inside an organization through networking, recommendations, and job postings.We rigorously identify, assess, and draw in exceptional executives who fuel strategic expansion and produce game-changing outcomes.Improve your team right now."
+
+    }
+     
+  ,
+    
+   {
+    
+        "id": 2,
+        "title": "Mid Level Hiring",
+        "name": "Mid Level Hiring",
+        "image":"/images/services/sv2a.jfif",
+        "description":"Mid-level hiring is the process of finding appropriate applicants to fill mid-level positions within an organisation. Finding out what is expected of the company and the role is necessary.With the help of our skilled hiring service, find exceptional mid-level personnel for your consulting business. To ensure that individuals will contribute to the expansion and success of your business, we evaluate their qualifications, future prospects, and talents.Include the professionals you require to strengthen your team."
+    
+    }
+    
+    ,
+    
+    {
+    
+        "id": 3,
+        "title": "Senior Level Hiring",
+        "name": "Senior Level Hiring",
+        "image":"/images/services/sv2.jpg",
+        "description":"The process of finding and choosing qualified candidates for higher-level positions inside an organisation is known as senior-level hiring.Recruiters generally find senior-level candidates through recommendations, job listings, and other methods.With our experience in senior-level hiring, elevate your consulting firm. who bring a wealth of knowledge, insightful strategic thinking, and a proven track record of producing excellent results. Motivate your company to succeed."
+    
+    }
+    
+    ,
+    
+    
+    {
+    
+        "id": 4,
+        "title": "Contract Staffing",
+        "name": "Contract Staffing",
+        "image":"/images/services/sv3.png",
+        "description":"Contract staffing is the process of identifying and appointing contractors with certain skill sets to do temporary or specialised tasks. It comprises figuring out the organization's requirements as well as the skills and experience needed for the contractual role.To expand your consulting business, make use of our contract staffing options. To enable you to respond swiftly to project demands while ensuring high-quality deliverables, we provide competent professionals on a temporary basis, Improve your  increase your agility and speed."
+    
+    }
+    
+    ,
+    
+    
+    {
+    
+        "id": 5,
+        "title": "Permanent Staffing",
+        "name": "Permanent Staffing",
+        "image":"/images/services/permanent.jfif",
+        "description":"The process of finding and choosing qualified candidates for long-term employment inside an organization is known as permanent staffing. It entails determining the position's essential skills and requirements as well as the organization's demands.With our permanent employment options, you can safeguard the future of your consulting business. We carefully select the best candidates for your company, assuring long-term success and a strong team chemistry. Create for enduring excellence."
+    
+    }
+    
+    ,
+    {
+    
+        "id": 6,
+        "title": "Campus Hiring",
+        "name": "Campus Hiring",
+        "image":"/images/services/sv4.webp",
+        "description":"Campus hiring is a recruitment strategy that focuses on sourcing new talent from universities and colleges. It involves recruiting teams visiting campuses, attending job fairs, and hosting on-site interviews,recruit potential new employees at an early stage in their careers.Unlock the potential of fresh talent for your consulting agency through our campus hiring program. We identify and recruit exceptional graduates, fostering a diverse and dynamic workforce for future success. Embrace the next generation of leaders."
+    
+    }
+    ,
+    {
+    
+        "id": 7,
+        "title": "Head Hunting",
+        "name": "Head Hunting",
+        "image":"/images/services/sv5.jfif",
+        "description":"Headhunting is used when an organization is unable to source suitable candidates through traditional methods and provides ideal candidates for senior and executive roles.Uncover exceptional industry leaders for your consulting agency with our targeted headhunting services."
+    
+    }
+    
+    ,
+    {
+    
+        "id": 8,
+        "title": "Reference",
+        "name": "Reference",
+        "image":"/images/services/sv6.jpg",
+        "description":"Reference involves recruitment methods that checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family.Reference-based hiring revolutionizes the recruitment process.By leveraging the insights and recommendations of trusted references, we ensure the selection of candidates with proven track records, cultural fit, and potential for success."    
+    }    ,
+    {
+    
+        "id": 9,
+        "title": "Social Media",
+        "name": "Social Media",
+        "image":"/images/services/sv7.jpg",
+        "description":"Social media recruiting entails posting job vacancies on social media platforms and reviewing applications to discover possible candidates; however, social media recruitment can offer a bigger pool of applicants.Strategic social media hiring can help you find top people for your consulting and HR services. We make use of social media sites to locate, attract, and hire candidates with the necessary qualifications and cultural fit."
+    
+    }
+    
+
+
+    ,
+    {
+    
+        "id": 10,
+        "title": "Resource Augmentation",
+        "name": "Resource Augmentation",
+        "image":"/images/services/sv8.jpg",
+        "description":"Our IT expertise gives your team the speed, business sense, and adaptability it needs to scale swiftly and finish development on schedule. Whether a project is simple or complex, from prototyping to full-scale development, our staff is always available.With the help of our adaptable solution, your team's knowledge can be improved, productivity can be increased, and project expectations can be successfully met. Boost your capacity and efficiency now."
+    
+    }
+
+
+    ,
+    
+        {
+    
+        "id": 11,
+        "title": "IT Services",
+        "name":  "Software Application Development",
+        "image":"/images/services/sv9.jpg",
+        "description":"We have experts in a range of IT fields, including software application development, web design and development, digital transformation, data science, cloud services, android app development, iOS app development, and mobile app development, to meet the needs of your particular project.With the help of our software application development services, your consulting firm's capabilities will be improved. We create and implement customised solutions that boost productivity, streamline operations, and arm your company with cutting-edge technology. Activate your online potential."
+    
+    }  
+
+    ,
+    
+        {
+    
+        "id": 12,
+        "title": "IT Services",
+        "name":  "Web Design & Development",
+        "image":"/images/services/sv10.jpg",
+        "description":"Bring on-time the construction of amazing, business-ready online application features.With the help of our web design and development services, your consulting firm's internet presence will be enhanced. Our visually appealing and user-friendly websites engage people, build brand credibility, and spur company expansion. Create a digital footprint."
+    
+    }  
+
+
+
+    ,
+    
+    {
+
+    "id": 13,
+    "title": "Digital Transformation",
+    "name":  "Digital Transformation",
+    "image":"/images/services/sv11.jpg",
+    "description":"We begin by evaluating a company's current position and desired future. We examine the data, technology, and people there. at its governance, leadership, and culture.Your organization can embrace innovation, improve operational efficiency, and provide excellent customer experiences thanks to our expertise in adopting new technologies and optimizing business processes. Accept the digital era."
+
+
+}   
+
+
+,
+    
+        {
+    
+        "id": 14,
+        "title": "Data Science",
+        "name":  "Data Science",
+        "image":"/images/services/sv12.jpg",
+        "description":"By using techniques like automation, process optimisation, and predictive analytics, we will take your data requirements and develop strong analytical modules that assist you in identifying insight gaps, spotting opportunities, improving business outcomes, and tightening operational efficiency.Use our data science services for your consulting firm to harness the power of data. To open up new prospects and spur growth, we extract useful insights, use cutting-edge analytics, and foster informed decision-making.Boost your company's performance with data-driven tactics."
+    
+    }  
+
+    ,
+    
+    {
+
+    "id": 15,
+    "title": "Cloud Services",
+    "name":  "Cloud Services",
+    "image":"/images/services/sv13.jpg",
+    "description":"Clouds are the greatest option for every organisation, big or little, due to their many benefits. The use of cloud computing in businesses has various benefits. These consist of: Scalability, Robustness, Reliability, and Availability.Agility, flexibility, increased business value, and improved operational efficiency.Our cloud services, as a consulting firm, enable companies to streamline operations, improve scalability, and foster creativity. We create and deploy custom solutions for your particular needs by utilising industry-leading cloud platforms. Together, let's realise the cloud's full potential."
+
+}  
+
+,
+    
+        {
+    
+        "id": 16,
+        "title": "Android App Development",
+        "name":  "Android App Development",
+        "image":"/images/services/sv14.jpg",
+        "description":"Having fully equipped and adaptable mobile applications is essential for staying ahead of the competition. Our team builds apps that make a big impact by combining their extensive skills, creative thinking, and cutting-edge technologies. Delivering Android apps that are strong, scalable, and adapted to user needs is the goal.We develop unique, user-friendly mobile applications that improve client engagement, boost your brand's online visibility, and expedite operations. Accept the mobile era now."
+    
+    }  
+
+
+    ,
+    
+    {
+
+    "id": 17,
+    "title": "IOS App Development",
+    "name":  "IOS App Development",
+    "image":"/images/services/sv15.jpg",
+    "description":"Businesses need target-oriented, user-friendly, niche-specific apps with lots of features if they want to stand out from the competition. The durable, dependable, and high-quality apps we produce using our thorough approach include slick UI design, implementation, testing, and integration for iOS devices that are designed to improve every facet of your company.With the help of our iOS app development services, your consulting firm's mobile visibility will be improved. We develop cutting-edge, user-friendly apps that provide seamless experiences to Apple consumers, extending your reach and enhancing the effect of your business."
+
+}  
+
+,
+    
+{
+
+"id": 18,
+"title": "Mobile App Development",
+"name":  "Mobile App Development",
+"image":"/images/services/sv16.jpg",
+"description":"Managed Mobile App Development is committed to identifying and achieving your targeted goals.With our mobile app development solutions, your consulting firm's digital strategy will be strengthened. We develop dynamic, cross-platform applications that boost customer interaction, streamline operations, and provide your company the tools it needs to succeed in the mobile age."
+
+}  
+
+
+]
+

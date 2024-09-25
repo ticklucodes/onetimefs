@@ -1,0 +1,132 @@
+[
+
+
+{
+
+    "id": 1,
+    "title": "Executive Hiring",
+    "name" : "Executive Hiring",
+    "image":"./images/services/sv1.jpg",
+    "description":"Executive hiring is the process of recruiting and selecting qualified individuals for specific leadership roles within an organization. It involves identifying the skills and experience needed for the position and sourcing candidates through networking, referrals, job postings, and other recruiting strategies. Executive hiring is a critical part of any successful organization, as it can have a significant impact on company performance."
+
+}
+,
+
+{
+
+    "id": 2,
+    "title": "Mid Level Hiring",
+    "name": "Mid Level Hiring",
+    "image":"/images/services/sv2a.jfif",
+    "description":"Mid-level hiring is the process of recruiting and selecting qualified individuals for mid-level roles within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Candidates are typically sourced through referrals, job postings, and other recruiting strategies. Mid-level hiring is important for ensuring that the organization has the necessary skills and talent to achieve success."
+
+}
+
+,
+
+{
+
+    "id": 3,
+    "title": "Senior Level Hiring",
+    "name": "Senior Level Hiring",
+    "image":"/images/services/sv2.jpg",
+    "description":"Senior-level hiring is the process of recruiting and selecting qualified individuals for higher-level roles within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Senior-level candidates are typically sourced through referrals, job postings, and other recruiting strategies. Senior-level hiring is important for ensuring that the organization has the experience, expertise, and leadership necessary for success."
+
+}
+
+,
+
+
+{
+
+    "id": 4,
+    "title": "Contract Staffing",
+    "name": "Contract Staffing",
+    "image":"/images/services/sv3.png",
+    "description":"Contract staffing is the process of recruiting and placing contractors with specific skillsets to complete short-term or specialized tasks. It involves assessing the needs of the organization and the desired skills and qualifications for the contracted role. Contractors are typically sourced through referrals, job postings, and other recruiting strategies. Contract staffing is important for providing access to specialized skillsets and expertise on a more flexible and cost-effective basis."
+
+}
+
+,
+
+
+{
+
+    "id": 5,
+    "title": "Permanent Staffing",
+    "name": "Permanent Staffing",
+    "image":"/images/services/permanent.jfif",
+    "description":"Permanent staffing is the process of recruiting and selecting qualified individuals for long-term employment within an organization. It involves assessing the needs of the organization and the desired skills and qualifications for the position. Permanent candidates are typically sourced through referrals, job postings, and other recruiting strategies. Permanent staffing is important for providing stability and longevity to an organization's workforce."
+
+}
+
+,
+{
+
+    "id": 6,
+    "title": "Campus Hiring",
+    "name": "Campus Hiring",
+    "image":"/images/services/sv4.webp",
+    "description":"Campus hiring is a recruitment strategy that focuses on sourcing new talent from universities and colleges. It involves recruiting teams visiting campuses, attending job fairs, and hosting on-site interviews. The goal of campus hiring is to identify and recruit potential new employees at an early stage in their careers. It can also be used to build relationships with universities and create a positive reputation for the organization."
+
+}
+,
+{
+
+    "id": 7,
+    "title": "Head Hunting",
+    "name": "Head Hunting",
+    "image":"/images/services/sv5.jfif",
+    "description":"Headhunting is a recruitment strategy used to find qualified candidates for specialised positions. It involves actively searching for and targeting individuals who possess the desired skills and qualifications. Headhunting is used when an organization is unable to source suitable candidates through traditional methods and provides ideal candidates for senior and executive roles."
+
+}
+
+,
+{
+
+    "id": 8,
+    "title": "Reference",
+    "name": "Reference",
+    "image":"/images/services/sv6.jpg",
+    "description":"Reference and social media are two commonly used recruitment methods. Reference checks involve gathering information from an applicant's network of contacts, such as colleagues, friends, and family."
+
+}
+
+,
+{
+
+    "id": 9,
+    "title": "Social Media",
+    "name": "Social Media",
+    "image":"/images/services/sv7.jpg",
+    "description":"Social media recruitment involves using social media platforms to post job openings and evaluate applicants. Both methods can be used to identify potential candidates, however, social media recruitment can provide a larger pool of applicants."
+
+}
+
+,
+
+{
+
+    "id": 10,
+    "title": "",
+    "name": "IT Expertise",
+    "image":"/images/services/sv7.jpg",
+    "description":"IT expertise refers to the knowledge and skills of individuals in the field of information technology.Individuals with IT expertise may have the ability to design, implement, and maintain computer systems and applications."
+
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
